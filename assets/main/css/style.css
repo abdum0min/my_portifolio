@@ -263,3 +263,13 @@
       opacity: 1;
     }
   }
+  @media screen and (max-width:1000px) {
+    .imgsss{
+      display: none !important;
+    }
+    .contact{
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+  }
