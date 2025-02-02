@@ -161,6 +161,54 @@
     color: #21243D;
   }
   /* works end */
+  /* detail start */
+  .detail_box{
+    border: 2px gainsboro solid;
+    background:#EDF7FA;
+    padding: 15px 15px;
+    border-radius: 15px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    margin-bottom: 40px;
+  }
+  .detail_img{
+    border-radius: 12px 12px 0 0;
+  }
+  /* detail end */
+  /* comments start */
+  .comment_h4{
+    font-size: 14px;
+    font-family: 'Heebo';
+    font-weight: 400;
+    margin: 0;
+  }
+  .comment_box{
+    background: #EDF7FA;
+    border-radius: 15px 15px 0 0 ;
+    padding: 15px 15px;
+    margin-bottom: 10px;
+  }
+  .comment_text{
+    font-size: 16px;
+    font-family: 'Heebo';
+    font-weight: 400;
+    margin-bottom: 15px;
+  }
+  .comment_user{
+    font-size: 12px;
+    font-family: 'Heebo';
+    font-weight: 400;
+    margin-bottom: 20px;
+  }
+  .comments_box{
+    background: #FFFFFF;
+    border: 2px gainsboro solid;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 15px;
+  }
+  .comment{
+    padding: 0 15px;
+  }
+  /* comments end */
   /* footer start */
   .copyright{
     font-size: 14px;
