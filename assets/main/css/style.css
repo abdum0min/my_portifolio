@@ -289,7 +289,7 @@
         flex-direction: column-reverse;
       }
     }
-  @media screen and (max-width:500px) {
+  @media screen and (max-width:800px) {
     .container2{
       width: 90%;
     }
