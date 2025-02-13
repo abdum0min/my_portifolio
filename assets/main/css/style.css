@@ -181,28 +181,43 @@
   /* detail end */
   /* comments start */
   .comment_h4{
-    font-size: 14px;
+    font-size: 28px;
     font-family: 'Heebo';
     font-weight: 400;
     margin: 0;
   }
   .comment_box{
-    background: #EDF7FA;
+    /* background: #EDF7FA; */
     border-radius: 15px 15px 0 0 ;
     padding: 15px 15px;
     margin-bottom: 10px;
+  }
+  .comment_form{
+    border: 1px solid #0089FF;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px 0px #0A3A6426;
+
+  }
+  .comment_label{
+    font-size: 18px;
+    font-family: 'Heebo';
+    font-weight: 400;
+    margin: 0;
   }
   .comment_text{
     font-size: 16px;
     font-family: 'Heebo';
     font-weight: 400;
     margin-bottom: 15px;
+    line-height: 28px;
   }
   .comment_user{
-    font-size: 12px;
+    font-size: 18px;
     font-family: 'Heebo';
-    font-weight: 400;
-    margin-bottom: 20px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    line-height: 23px;
   }
   .comments_box{
     background: #FFFFFF;
